@@ -19,7 +19,7 @@ The expected installation is using 3M DualLock Reclosable Fastener. (It is inclu
 If you need to operate the USBMOUNT (EQmod) over long distances, it is better to prefer a longer cable on the telescope side (RJ45). You can use a standard (straight) ethernet cable here. I recommend a shielded one. The length of the USB should not exceed 5m. Even with a shorter cable, the USB connection may not work reliably. 
 
 ### LED indicators
-USBMOUNT is equipted with 4 LED diods. Two red ones indicate the presence of power in coresponding (nearest) connector. Simply if it is connected. The other two orange diods show data transfer. TX indicating data from computer to your mount. The RX is in the opposite direction. 
+USBMOUNT is equipted with 4 LED diods. Two red ones indicate the presence of power in coresponding (nearest) connector. Simply if it is connected. The other two orange diods show data transfer. `TX` indicating data from computer to your mount. The `RX` is in the opposite direction. 
 
 ### Installation of drivers
 #### Linux
