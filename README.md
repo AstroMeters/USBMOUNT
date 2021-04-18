@@ -50,8 +50,4 @@ USBMOUNT is equipted with 4 LED diods. Two red ones indicate the presence of pow
 | EQ5 Synscan | | |
 | EQ4 with Synscan (EQ5) | | |
 | EQ3-2 with Synscan	 | | |
-
-
-USB-C to SkyWatcher SkyScan mount adapter. 
-
-Make the most of your astro-setup and connect it to your computer. Control the assembly comfortably and more accurately.
+> The list may not be complete
