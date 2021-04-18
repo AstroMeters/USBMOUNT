@@ -13,6 +13,11 @@ The USBMOUNT is connected instead of the hand control. It provides full mount fu
 
 > It is expected that the mount is powered and switched on.
 
+### Mounting
+The expected installation is using 3M DualLock Reclosable Fastener. (It is included in the package.) For gluing it is necessary to first degrease the surface and after gluing, keep it pressed for some time
+
+If you need to operate the USBMOUNT (EQmod) over long distances, it is better to prefer a longer cable on the telescope side (RJ45). You can use a standard (straight) ethernet cable here. I recommend a shielded one. The length of the USB should not exceed 5m. Even with a shorter cable, the USB connection may not work reliably. 
+
 ### LED indicators
 USBMOUNT is equipted with 4 LED diods. Two red ones indicate the presence of power in coresponding (nearest) connector. Simply if it is connected. The other two orange diods show data transfer. TX indicating data from computer to your mount. The RX is in the opposite direction. 
 
@@ -34,7 +39,18 @@ USBMOUNT is equipted with 4 LED diods. Two red ones indicate the presence of pow
 
 | Mount | Connector | Note |
 |-----|-----|-----|
-|HEQ5 GoTo | RJ45 |  |
+| EQ8 | | |
+| AZ-EQ6 |  | |
+| EQ6-R PRO | | |
+| NEQ6 | | |
+| EQ6 Pro | | |
+| EQ6 Synscan  | | |
+| HEQ5 SynScan  | | |
+| HEQ5 SynTreck | | |
+| EQ5 Synscan | | |
+| EQ4 with Synscan (EQ5) | | |
+| EQ3-2 with Synscan	 | | |
+
 
 USB-C to SkyWatcher SkyScan mount adapter. 
 
