@@ -39,15 +39,15 @@ USBMOUNT is equipted with 4 LED diods. Two red ones indicate the presence of pow
 
 | Mount | Connector | Note |
 |-----|-----|-----|
-| EQ8 | | |
-| AZ-EQ6 |  | |
-| EQ6-R PRO | | |
-| NEQ6 | | |
-| EQ6 Pro | | |
+| EQ8 |  RJ45 | |
+| AZ-EQ6 | RJ45 | |
+| EQ6-R | RJ45 | |
+| NEQ6  PRO | RJ45 | |
+| EQ6 Pro |  RJ45 | |
 | EQ6 Synscan  | | |
-| HEQ5 SynScan  | | |
-| HEQ5 SynTreck | | |
-| EQ5 Synscan | | |
+| HEQ5 SynScan |  RJ45 | |
+| HEQ5 SynTreck | RJ45 | |
+| EQ5 Synscan | RJ45 | |
 | EQ4 with Synscan (EQ5) | | |
 | EQ3-2 with Synscan	 | | |
 > The list may not be complete
