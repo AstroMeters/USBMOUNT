@@ -8,7 +8,7 @@ Skywatcher mounts are very popular among amateur astronomers due to their adorab
 ### Connection
 The USBMOUNT is connected instead of the hand control. It provides full mount functionality.
 
-* **To computer:** It is simple :) Only connect USBMOUNT to computer with USB-C cable. You can use, for example, the one you use for your smartphone. `PC (pwr)` LED should appear. 
+* **To computer:** It is simple :) Only connect USBMOUNT to computer with USB-C cable. You can use, for example, the one you use for your smartphone. `PC (pwr)` LED should appear. It is recommended to use a quality cable to ensure a permanent and high-quality connection. 
 * **To mount:**  For connection to the assembly, the converter is equipped with an RJ45 connector. You can use a cable that you connect to the hand control or a direct Ethernet cable to connect. (If your mount have an RJ45 connector - see the table below). After successful connection to the assembly, the `MOUNT (pwr)` LED should light up. 
 
 > It is expected that the mount is powered and switched on.
