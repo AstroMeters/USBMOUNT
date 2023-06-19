@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,6.0.9+dfsg-1~bpo11+1*%
-%TF.CreationDate,2022-11-22T08:32:21+00:00*%
-%TF.ProjectId,USBMOUNT01A,5553424d-4f55-44e5-9430-31412e6b6963,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5.1-1-g8f565ef7f0-dirty-deb11*%
+%TF.CreationDate,2023-06-19T19:43:29+00:00*%
+%TF.ProjectId,USBMOUNT01,5553424d-4f55-44e5-9430-312e6b696361,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.9+dfsg-1~bpo11+1) date 2022-11-22 08:32:21*
+G04 Created by KiCad (PCBNEW 7.0.5.1-1-g8f565ef7f0-dirty-deb11) date 2023-06-19 19:43:29*
 %MOMM*%
 %LPD*%
 G01*
@@ -17,10 +17,7 @@ G04 APERTURE END LIST*
 D10*
 X123631000Y-78903500D02*
 X173637000Y-78903500D01*
-X173637000Y-78903500D02*
 X173637000Y-98896500D01*
-X173637000Y-98896500D02*
 X123631000Y-98896500D01*
-X123631000Y-98896500D02*
 X123631000Y-78903500D01*
 M02*
