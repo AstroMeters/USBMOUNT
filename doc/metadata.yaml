@@ -1,0 +1,29 @@
+description: USB-C to EQ-mod convertor
+github_branch: USBMOUNT01A
+github_repo: USBMOUNT
+github_url: https://github.com/AstroMeters/USBMOUNT
+homepage: false
+images:
+- doc/USBMOUNT01A_r_02.png
+- doc/USBMOUNT01A_r_04.png
+- doc/USBMOUNT01A_r_03.png
+- doc/USBMOUNT01A_r_01.png
+- doc/gen/img/pcb/USBMOUNT01A-bottom.png
+- doc/gen/img/pcb/USBMOUNT01A-top.png
+- doc/gen/USBMOUNT01A-schematic.svg
+mark: 50
+mod_scheme: doc/gen/USBMOUNT01A-schematic.pdf
+tags:
+- astronomy
+- mount
+- skywatcher
+- eqmod
+- indi
+- computer
+- usb-c
+- observing
+- eq6
+- eq5
+- az-eq6r
+- indilib
+title: USBMOUNT
