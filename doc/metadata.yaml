@@ -1,7 +1,7 @@
 description: USB-C to EQ-mod convertor
 github_branch: USBMOUNT01A
-github_repo: USBMOUNT
-github_url: https://github.com/AstroMeters/USBMOUNT
+github_repo: USBMOUNT01
+github_url: https://github.com/AstroMeters/USBMOUNT01
 homepage: false
 images:
 - doc/USBMOUNT01A_r_02.png
@@ -26,4 +26,4 @@ tags:
 - eq5
 - az-eq6r
 - indilib
-title: USBMOUNT
+title: USBMOUNT01
