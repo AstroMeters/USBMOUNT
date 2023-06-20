@@ -5,4 +5,7 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/AstroMeters/USBMOUNT01
-summary: USB-C to EQ-mod convertor
+summary: USB-C to EQ-mod converter. Seamlessly control your astronomical mount from
+  your computer. Replace the manual controller with this USB-C device for precise
+  and convenient control. Experience advanced remote functionalities for effortless
+  observation and astrophotography. Upgrade your mount control with USBMOUNT01.
