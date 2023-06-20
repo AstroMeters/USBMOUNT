@@ -25,7 +25,7 @@ USBMOUNT is equipted with 4 LED diods. Two red ones indicate the presence of pow
 
 ### Installation of drivers
 #### Linux
-
+The USBMOUNT01 device is natively supported by nowdays linux computers, ensuring effortless setup and compatibility for users. Simply connect USBMOUNT01 to your Linux computer, and you're ready to use USBMOUNT01 converter with your favourite control software. For example Indi with Kstars. 
 
 #### Windows
 
