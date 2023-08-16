@@ -7,17 +7,17 @@ github_repo: USBMOUNT01
 github_url: https://github.com/AstroMeters/USBMOUNT01
 homepage: false
 images:
-- doc/USBMOUNT01A_r_02.png
 - doc/USBMOUNT01A_r_04.png
 - doc/USBMOUNT01A_r_03.png
+- doc/USBMOUNT01A_r_02.png
 - doc/USBMOUNT01A_r_01.png
-- doc/gen/img/USBMOUNT01-top.png
 - doc/gen/img/USBMOUNT01-bottom.png
-- hw/cam_profi/docs/USBMOUNT01A-assembly_page_01.svg
-- hw/cam_profi/docs/USBMOUNT01A-assembly_page_02.svg
+- doc/gen/img/USBMOUNT01-top.png
 - doc/gen/USBMOUNT01-schematic.svg
 - doc/gen/img/USBMOUNT01-top.svg
 - doc/gen/img/USBMOUNT01-bottom.svg
+- hw/cam_profi/docs/USBMOUNT01A-assembly_page_01.svg
+- hw/cam_profi/docs/USBMOUNT01A-assembly_page_02.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/USBMOUNT01-ibom.html
 mod_scheme: doc/gen/USBMOUNT01-schematic.pdf
